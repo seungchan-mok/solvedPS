@@ -84,7 +84,7 @@ int main()
     }
     if(all_ripen)
     {
-        printf("0");
+        printf("-1");
         return 0;
     }
     int day = 0;
